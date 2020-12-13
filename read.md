@@ -31,10 +31,3 @@
 [x]queens with any other coordinates should NOT be “under attack”
 
 [x]NOTE: Include assert statements directly in your notebook verifying the behavior above.
-
-# Stretch Goal
-[]Enlarge the chessboard to allow for pixel art drawn pieces. 16x16 ought to be enough.
-
-[]Add more attacking queens.
-
-[]Add opacity to cell colors.
