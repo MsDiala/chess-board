@@ -38,3 +38,5 @@
 []Add more attacking queens.
 
 []Add opacity to cell colors.
+
+https://github.com/MsDiala/chess-board/pull/1
